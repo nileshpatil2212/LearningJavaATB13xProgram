@@ -24,6 +24,7 @@ public class Task_Multiplication_of_Table_9 {
 //        System.out.printf("%d × %d = %d\n", a1, b1, a1 * b1);
 //        b1 = 2;
 //        System.out.printf("%d × %d = %d\n", a1, b1, a1 * b1);
+   //     Type 4 : System.out.printf("%d x %d = %d " ,9,1,9);
 
 
 
