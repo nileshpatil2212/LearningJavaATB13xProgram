@@ -5,7 +5,7 @@ public class Exercise_ID_Program_1 {
 //    🔹 Program 1:
 
         int a = 5;
-        int b = a++;
+        int b = a++;  // 5(6) // a = 6 & b = 5
         System.out.println("a: " + a + ", b: " + b);
 
 
