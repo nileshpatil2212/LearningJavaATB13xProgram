@@ -10,6 +10,7 @@ public class AddTwoNumber {
         System.out.println("Sum of doubles : " + sumDouble);
     }
 
+
 }
 
 class Calculator{

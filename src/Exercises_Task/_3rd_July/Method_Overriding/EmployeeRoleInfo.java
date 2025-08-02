@@ -13,6 +13,7 @@ public class EmployeeRoleInfo {
     }
 }
 
+
 class Employee{
     public void role(){
         System.out.println("General Employee");

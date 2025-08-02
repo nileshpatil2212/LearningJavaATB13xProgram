@@ -10,6 +10,11 @@ public class PrintData {
 }
 
 
+
+
+
+
+
 class Printer{
     void printData(String data){
         System.out.println("String Data : " + data);
